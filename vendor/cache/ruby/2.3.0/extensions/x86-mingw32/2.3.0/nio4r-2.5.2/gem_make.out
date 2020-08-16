@@ -1,0 +1,14 @@
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/nio4r-2.5.2/ext/nio4r
+C:/RailsInstaller/Ruby2.3.3/bin/ruby.exe -r ./siteconf20200815-12132-1spfpju.rb extconf.rb
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR=" clean
+make: *** No rule to make target `clean'.  Stop.
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR="
+make: Nothing to be done for `all'.
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/nio4r-2.5.2/ext/nio4r
+make "DESTDIR=" install
+make: Nothing to be done for `install'.

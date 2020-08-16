@@ -1,0 +1,20 @@
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/bcrypt-3.1.15/ext/mri
+C:/RailsInstaller/Ruby2.3.3/bin/ruby.exe -r ./siteconf20200816-7668-1nqdx3n.rb extconf.rb
+creating Makefile
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/bcrypt-3.1.15/ext/mri
+make "DESTDIR=" clean
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/bcrypt-3.1.15/ext/mri
+make "DESTDIR="
+generating bcrypt_ext-i386-mingw32.def
+compiling bcrypt_ext.c
+compiling crypt_blowfish.c
+gcc  -D__SKIP_GNU -DFD_SETSIZE=2048 -D_WIN32_WINNT=0x0501 -D__MINGW_USE_VC2005_COMPAT -D_FILE_OFFSET_BITS=64   -c -o x86.o x86.S
+compiling crypt_gensalt.c
+compiling wrapper.c
+linking shared-object bcrypt_ext.so
+
+current directory: C:/Sites/todo-api/vendor/cache/ruby/2.3.0/gems/bcrypt-3.1.15/ext/mri
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 bcrypt_ext.so ./.gem.20200816-7668-1vxjje0
